@@ -6,7 +6,7 @@
 Toujours curieux de découvrir de nouveaux langages et framework !
 <br>
 
-#### Etudiant à l'IUT de Villetaneuse en BUT Informatique, vous retrouverez ici mes différents Projets Scolaires (SAE) et professionnel.
+#### Etudiant à l'ESIEE Paris en formation d'ingénieur informatique, vous retrouverez ici mes différents Projets Scolaires et professionnel.
 
 
 <br><br>
@@ -20,7 +20,7 @@ Toujours curieux de découvrir de nouveaux langages et framework !
 ## Mes compétences :
 <br>
 
-![](https://skillicons.dev/icons?i=html,css,js,php,java,bootstrap,py,postgres,nodejs,vuejs,&theme=dark)
+![](https://skillicons.dev/icons?i=html,css,js,php,java,bootstrap,py,postgres,nodejs,vuejs,c,&theme=dark)
 
 </div>
 
